@@ -17,5 +17,10 @@
         "psr-4": {
             "PhpZendo\\": "src/"
         }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "PhpZendo\\": "tests/"
+        }
     }
 }
